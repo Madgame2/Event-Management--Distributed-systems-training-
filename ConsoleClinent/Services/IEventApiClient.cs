@@ -1,3 +1,5 @@
+using Server.Application.DTO;
+
 namespace ConsoleClinet.Services;
 
 public interface IEventApiClient
